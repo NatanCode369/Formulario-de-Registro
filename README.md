@@ -2,9 +2,9 @@
 Hoja de trabajo 1 bimestre 4, metodología SCRUM, arquitectura MVC en aplicación JavaFX con FXML y conexión a DB.
 
 Roles de SCRUM:
-Jonatan: Development, Product Owner (Tester)
+Jonatan: Development
 Francisco: Development
-Edmond: Development
+Edmond: Development, Product Owner
 Adrián: Master, Deploy
 
 
