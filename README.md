@@ -8,15 +8,17 @@ Edmond: Development, Product Owner
 Adrián: Master, Deploy
 
 
-Martes (Sprint 1, 7:00 - 10:30):
+Martes (Sprint 1, 9:00 - 12:00):
+Product Baklog (tareas para este sprint)
 
-Jonatan Cardona: 
-DB, tabla usuarios y CRUD de la tabla.
+- DB: tabla usuarios y CRUD de la tabla.
 
-Francisco Alvarez: 
-Formulario de Login con su controlador y validaciones.
+- View: Formulario de Login con su controlador y validaciones.
 
-Edmond Dubon: 
-Modelo (clases POJO), entidades (usuario), conexión a DB.
+- Modelo (clases POJO) entidad usuario.
+  
+- Repository/conexiónDB.
+  
+- Controlador.
 
-Adrián Aguilar: Repository y controlador.
+Nota: Coloquen su primer nombre y apellido al inicio de la tarea del backlog que quieren tomar, ejemplo: "- Adrián Aguilar: Modelo (clases POJO)", solo elijan alguna de las tareas, las que queden las realizaremos en el siguiente sprint, al terminar el sprint pueden hacer lo que quieran. Por la tarde haremos una reunión para realizar la review del sprint, esto para discutir sobre el rendimiento o problemas de este sprint o propuestas para el próximo sprint.
