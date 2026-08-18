@@ -8,7 +8,7 @@ Edmond: Development
 Adrián: Master, Develop
 
 
-Martes (Sprint 1, 9:00 - 12:00):
+(Sprint 1):
 Product Baklog (tareas para este sprint)
 
 - DB: tabla usuarios y CRUD de la tabla.
