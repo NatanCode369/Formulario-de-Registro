@@ -4,8 +4,8 @@ Hoja de trabajo 1 bimestre 4, metodología SCRUM, arquitectura MVC en aplicació
 Roles de SCRUM:
 Jonatan: Development
 Francisco: Development
-Edmond: Development, Product Owner
-Adrián: Master, Deploy
+Edmond: Development
+Adrián: Master, Develop
 
 
 Martes (Sprint 1, 9:00 - 12:00):
